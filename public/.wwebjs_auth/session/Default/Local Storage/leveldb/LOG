@@ -1,0 +1,5 @@
+2024/08/15-11:13:43.011 438 Creating DB C:\xampp1\htdocs\ci3\public\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2024/08/15-11:13:43.872 438 Reusing MANIFEST C:\xampp1\htdocs\ci3\public\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2024/08/15-14:00:18.822 1204 Level-0 table #5: started
+2024/08/15-14:00:18.862 1204 Level-0 table #5: 16910 bytes OK
+2024/08/15-14:00:18.900 1204 Delete type=0 #3
